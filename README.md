@@ -10,8 +10,7 @@ The research work includes preprocessing of the highly imbalanced credit card fr
 ### Dataset
 The dataset consists of real-world anonymized credit card transactions.
 It includes features obtained through PCA transformations and a binary class label indicating fraud (1) or legitimate (0).
-Dataset used: Credit Card Fraud Detection Dataset - [Kaggle](https://drive.google.com/file/d/1ssdrm80E2zk43NbLVkdUh5eBd78UkRls/view?usp=sharing)
-
+Dataset used: Credit Card Fraud Detection Dataset - https://drive.google.com/file/d/1vDg0zzZNtiPd3x_5MGnJF82n36X0xTeU/view?usp=sharing
 ### Technologies Used
 Python, TensorFlow / Keras, Scikit-learn, imbalanced-learn (SMOTE, SMOTEENN), pandas, NumPy, Matplotlib & Seaborn (for visualization), PSO (via PySwarm)
 
